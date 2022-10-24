@@ -1,0 +1,10 @@
+{
+    "productos":[
+         {"nombre":"arroz","precio":"500"},
+         {"nombre":"pan8","precio":"300"},
+         {"nombre":"frijol","precio":"3300"},
+         {"nombre":"yuca","precio":"800"},
+         {"nombre":"panela","precio":"2500"},
+         {"nombre":"pollo","precio":"5200"}
+    ]
+}
